@@ -2,7 +2,7 @@ name: otel_devcycle
 description: >-
   OpenTelemetry instrumentation for devcycle by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use devcycle.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_devcycle
 homepage: https://dartastic.io
 
